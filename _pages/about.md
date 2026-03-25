@@ -18,6 +18,8 @@ redirect_from:
 
 # Awards & Honors
 
-- **[ACM Gordon Bell Prize Finalist for Climate Modelling' 25](https://dl.acm.org/doi/proceedings/10.1145/3712285?tocHeading=heading2#heading2)**
+- **[Finalists for the 2025 ACM Gordon Bell Prize for Climate Modelling](https://dl.acm.org/doi/proceedings/10.1145/3712285?tocHeading=heading2#heading2)**
+<span style="color: lightgray;">Kilometer-scale AI-powered and performance-portable earth system model (AP3ESM) to achieve year-scale simulation speed on heterogeneous supercomputers</span>
 
-- **[ACM Gordon Bell Prize Finalist for Climate Modelling' 24](https://sc24.supercomputing.org/2024/10/three-finalists-for-the-2024-gordon-bell-prize-for-climate-modelling/)**
+- **[Finalists for the 2024 ACM Gordon Bell Prize for Climate Modelling](https://sc24.supercomputing.org/2024/10/three-finalists-for-the-2024-gordon-bell-prize-for-climate-modelling/)**
+<span style="color: lightgray;">A performance-portable kilometer-scale global ocean model on ORISE and new Sunway heterogeneous supercomputers</span>
