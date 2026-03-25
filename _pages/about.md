@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+Welcome! 
 
 # Selected Publications
 
@@ -15,6 +16,10 @@ redirect_from:
 - **[SC'25]** Kai Xu, Maoxue Yu, Yuhu Chen, Jie Gao, Shuang Wang, Jiaying Song, Xiaohui Duan, **<u>Junlin Wei</u>**, Jiangfeng Yu, Hailong Liu, Jinrong Jiang, Yi Zhang, Pengfei Lin, Tianyi Wang, Pengfei Wang, Weipeng Zheng, Jingwei Xie, Jiakang Zhang, Zilu Liu, Xiaoyu Jin, Jilin Wei, Qixin Chang, Qingxia Lin, Yanzhi Zhou, Weiguo Liu, Wei Xue, Yiwen Li, Haohuan Fu, Yue Yu, Xuebin Chi, Lixin Wu. ***Kilometer-Scale AI-Powered and Performance-Portable Earth System Model (AP3ESM) to Achieve Year-Scale Simulation Speed on Heterogeneous Supercomputers***. [**Paper**](https://dl.acm.org/doi/10.1145/3712285.3771788)
 
 - **[SC'24]** **<u>Junlin Wei</u>**, Xiang Han, Jiangfeng Yu, Jinrong Jiang, Hailong Liu, Pengfei Lin, Maoxue Yu, Kai Xu, Lian Zhao, Pengfei Wang, Weipeng Zheng, Jingwei Xie, Yanzhi Zhou, Tao Zhang, Feng Zhang, Yehong Zhang, Yue Yu, Yuzhu Wang, Yidi Bai, Chen Li, Zipeng Yu, Haoyu Deng, Yaxin Li, Xuebin Chi. ***A Performance-Portable Kilometer-Scale Global Ocean Model on ORISE and New Sunway Heterogeneous Supercomputers***. [**Paper**](https://ieeexplore.ieee.org/document/10793221) [**Code**](https://github.com/JunlinW113/LICOMKpp)
+  
+- **[The Innovation]** Jingwei Xie, Jiangfeng Yu, Yanzhi Zhou, Hailong Liu, **<u>Junlin Wei</u>**, Xiang Han, Kai Xu, Maoxue Yu, Zipeng Yu, Pengfei Lin, Jinrong Jiang, Weipeng Zheng, Tao Zhang, Rong Wang, Zhao Jing, Lixin Wu. ***A 1-km resolution global ocean simulation promises to unveil oceanic multi-scale dynamics and climate impacts***. [**Paper**](https://www.cell.com/the-innovation/fulltext/S2666-6758(25)00046-3)
+
+- **[GMD]**  Pengfei Wang, Jinrong Jiang, Pengfei Lin, Mengrong Ding, **<u>Junlin Wei</u>**, Feng Zhang, Lian Zhao, Yiwen Li, Zipeng Yu, Weipeng Zheng, Yongqiang Yu, Xuebin Chi, Hailong Liu. ***The GPU version of LASG/IAP Climate System Ocean Model version 3 (LICOM3) under the heterogeneous-compute interface for portability (HIP) framework and its large-scale application***. [**Paper**](https://gmd.copernicus.org/articles/14/2781/2021/gmd-14-2781-2021.html)
 
 # Awards & Honors
 
@@ -25,3 +30,7 @@ redirect_from:
 - **[Finalist for the 2024 ACM Gordon Bell Prize for Climate Modelling](https://sc24.supercomputing.org/2024/10/three-finalists-for-the-2024-gordon-bell-prize-for-climate-modelling/)**
 
   `A Performance-Portable Kilometer-Scale Global Ocean Model on ORISE and New Sunway Heterogeneous Supercomputers`
+
+- **[2024年度“中国十大气象科技进展”](https://www.cma.gov.cn/ztbd/2025zt/20250323/2025032306/202503/t20250323_6941621.html)**
+- 
+  `跨异构超算的全球公里级气候海洋模拟:LICOMK++性能可移植与科学试验双突破`
