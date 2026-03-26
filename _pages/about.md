@@ -11,7 +11,7 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 
 # Selected Publications
 
-- **[EuroSys'26]** **<u>Junlin Wei</u>**, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, **Haoyuan Zhang**, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. ***swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture***. [**Paper**](https://2026.eurosys.org/papers.html#papers) [**Code**](https://github.com/JunlinW113/swKokkos)
+- **[EuroSys'26]** **<u>Junlin Wei</u>**, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, Haoyuan Zhang, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. ***swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture***. [**Paper**](https://2026.eurosys.org/papers.html#papers) [**Code**](https://github.com/JunlinW113/swKokkos)
 
 - **[SC'25]** Kai Xu, Maoxue Yu, Yuhu Chen, Jie Gao, Shuang Wang, Jiaying Song, Xiaohui Duan, **<u>Junlin Wei</u>**, Jiangfeng Yu, Hailong Liu, Jinrong Jiang, Yi Zhang, Pengfei Lin, Tianyi Wang, Pengfei Wang, Weipeng Zheng, Jingwei Xie, Jiakang Zhang, Zilu Liu, Xiaoyu Jin, Jilin Wei, Qixin Chang, Qingxia Lin, Yanzhi Zhou, Weiguo Liu, Wei Xue, Yiwen Li, Haohuan Fu, Yue Yu, Xuebin Chi, Lixin Wu. ***Kilometer-Scale AI-Powered and Performance-Portable Earth System Model (AP3ESM) to Achieve Year-Scale Simulation Speed on Heterogeneous Supercomputers***. [**Paper**](https://dl.acm.org/doi/10.1145/3712285.3771788)
 
