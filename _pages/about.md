@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elastic inference for large-scale EP in MoE LLMs](https://lmsys.org/blog/2026-03-17-eep-partial-failure-tolerance/). I earned my Ph.D. in 2026 from Computer Network Information Center (CNIC), Chinese Academy of Sciences and University of the Chinese Academy of Sciences (UCAS), during which I also participated in a joint Ph.D. program at Pengcheng Laboratory. My doctoral research centered on the intersection of HPC and ocean/climate modeling, as well as performance portability techniques for China's homegrown heterogeneous architectures.
+I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elastic inference for large-scale EP in MoE LLMs](https://lmsys.org/blog/2026-03-25-eep-partial-failure-tolerance/). I earned my Ph.D. in 2026 from Computer Network Information Center (CNIC), Chinese Academy of Sciences and University of the Chinese Academy of Sciences (UCAS), during which I also participated in a joint Ph.D. program at Pengcheng Laboratory. My doctoral research centered on the intersection of HPC and ocean/climate modeling, as well as performance portability techniques for China's homegrown heterogeneous architectures.
 
 # Selected Publications
 
