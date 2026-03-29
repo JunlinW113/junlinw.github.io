@@ -40,7 +40,11 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 - **Tencent Interactive Entertainment Group (IEG) | Research Intern**
   
   `July - September 2025, Shenzhen, Guangdong, China`
+
+- **RoboScience | Research Intern**
+
+  `May - June 2025, Shenzhen, Guangdong, China`
   
 - **Sogou Inc. | Algorithm Intern**
   
-  `July - August 2025, Beijing, China`
+  `July - August 2021, Beijing, China`
