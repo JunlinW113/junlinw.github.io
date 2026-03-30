@@ -41,7 +41,7 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
   
   `Research Intern, July - September 2025, Shenzhen, Guangdong, China`
 
-- **RoboScience**
+- **RoboScience (Startup)**
 
   `Research Intern, May - June 2025, Shenzhen, Guangdong, China`
   
