@@ -11,7 +11,7 @@ I currently conduct AI infrastructure R&D at JD.com, primarily focusing on [elas
 
 # Selected Publications
 
-- **[EuroSys'26]** **<u>Junlin Wei</u>**, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, Haoyuan Zhang, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. ***swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture***. [**Paper**](https://2026.eurosys.org/papers.html#papers) [**Code**](https://github.com/JunlinW113/swKokkos)
+- **[EuroSys'26]** **<u>Junlin Wei</u>**, Jinrong Jiang, Wu Wang, Chen Li, Yehong Zhang, Yue Yu, Lian Zhao, Xiang Han, Zhenjia Li, Feng Zhang, Haoyuan Zhang, Yidi Bai, Maoxue Yu, Kai Xu, Hailong Liu, Xuebin Chi. ***swKokkos: An Athread Backend for Enhanced Kokkos with the Sunway Heterogeneous Architecture***. [**Paper**](https://dl.acm.org/doi/10.1145/3767295.3803604) [**Code**](https://github.com/JunlinW113/swKokkos)
 
 - **[SOSP'26 (Under Review)]** Xun Sun, Shaoyuan Chen, Pingchuan Ma, Yue Chen, Ziwei Yuan, Zhanhao Cao, Han Han, Shangming Cai, Teng Ma, Xuchun Shang, Xinpeng Zhao, Ke Yang, **<u>Junlin Wei</u>**, Lianzhi Lin, Yuji Liu, Feng Ren, Haoran Hu, Cheng Wan, Yingdi Shan, Yongwei Wu, Mingxing Zhang. ***Plasmium: Elastic Expert Parallelism for Partial-Failure-Tolerant MoE Inference***.
 
